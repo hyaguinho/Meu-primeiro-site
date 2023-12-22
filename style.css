@@ -1,0 +1,101 @@
+
+
+
+h1{
+    font-family: minhafonte;
+    font-size: 50px;
+   
+    }
+
+@font-face {
+
+    font-family:Minhafonte;
+    src: url(fonts/ARMY\ RUST.ttf);
+     
+    }
+
+h2{
+    font-family: minhafonte;
+    font-size: 30px;
+    color: antiquewhite;
+    text-decoration: underline;
+   
+    }
+
+p{
+    font-size: 17px;
+    color: aliceblue;
+    font-weight: 600;
+    
+
+    }
+    
+    button{
+
+    display: flex;
+    background-color: brown;
+    color: white;
+    font-size: 15px;
+    border: none;
+    padding: 10px 10px;
+    border-radius:6px;
+    font-family:Minhafonte;
+    src: url(fonts/ARMY\ RUST.ttf);
+    margin:20px 1px;
+    background-image:url(img/gjpg.jpg);
+
+    }
+
+    body{
+
+        background-color: black;
+
+     }
+
+     .estilo{
+
+        display: flex;
+        text-shadow:rgb(253, 0, 0) -5px -5px 5px; 
+        color: aliceblue;
+        align-items: center;
+        margin: 3px 6px;
+         
+    
+    
+   }
+   
+   .img1{
+
+    display: flex;
+    margin-right: 60px;
+    margin-left:  20px;
+    border-radius: 25px;
+    box-shadow: 5px 5px red;
+
+
+
+   }
+
+   .img2{
+
+    display: flex;
+    margin-right: 60px;
+    margin-left:  20px;
+    border-radius: 25px;
+    box-shadow: 5px 5px red;
+
+
+   }
+
+
+
+   .img3{
+
+    display: flex;
+    margin-right: 60px;
+    margin-left:  20px;
+    border-radius: 25px;
+    box-shadow: 5px 5px red;
+
+
+   }
